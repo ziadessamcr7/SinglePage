@@ -36,6 +36,8 @@ hr.two {
 p {
     font-size: 17px;
     margin-bottom: 15px;
+    color: rgb(104, 101, 101);
+
 }
 
 span.googleText {
@@ -95,5 +97,5 @@ small {
 .sec-3 .row2 span {
     margin-right: 12px;
     font-size: 16px;
-
+    color: rgb(104, 101, 101);
 }
