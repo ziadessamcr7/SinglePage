@@ -9,12 +9,13 @@ body {
 }
 
 main {
-    height: 100vh;
+    /* height: 100svh; */
     /* padding-right: 8px; */
     /* display: flex;
     flex-direction: column;
     justify-content: space-between; */
     position: relative;
+    /* background-color: salmon; */
 
 }
 
@@ -25,7 +26,7 @@ main {
 }
 
 .sec-1 a {
-    color: #09c;
+    color: rgb(49, 155, 190);
 }
 
 h2 {
@@ -46,7 +47,7 @@ hr.two {
     margin-top: 25px;
     display: block;
     /* margin: 20px 0; */
-    margin-bottom: 120px;
+    margin-bottom: 50px;
 
 }
 
