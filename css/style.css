@@ -1,0 +1,92 @@
+* {
+    /* font-family: Arial, Helvetica, sans-serif; */
+    /* font-family: "Almarai", serif; */
+    font-family: "Noto Naskh Arabic", serif;
+}
+
+body {
+    direction: rtl;
+}
+
+main {
+    height: 100vh;
+    /* padding-right: 8px; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+hr.one {
+    margin-bottom: 20px;
+    margin-top: 25px;
+}
+
+hr.two {
+    margin-bottom: 50px;
+    margin-top: 25px;
+}
+
+p {
+    font-size: 17px;
+    margin-bottom: 15px;
+}
+
+span.googleText {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+
+
+small {
+    font-size: 16px;
+    margin-top: 40px;
+    display: block;
+}
+
+.sec-2 small {
+    margin-top: 20px;
+
+}
+
+.fa-bars {
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+.exBox {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.exBox .fa-circle-exclamation {
+    margin-left: 10px;
+    color: red;
+}
+
+
+.sec-3 {
+    background-color: hsl(228deg 71.43% 98.63%);
+    padding: 20px 0;
+    /* position: absolute; */
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+
+}
+
+.sec-3 .row1 {
+    margin-bottom: 20px;
+}
+
+.sec-3 .row1 span,
+.sec-3 .row2 span {
+    margin-right: 12px;
+    font-size: 15px;
+
+}
