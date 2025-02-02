@@ -17,6 +17,12 @@ main {
 
 }
 
+.sec-1,
+.sec-2,
+.sec-3 {
+    padding-right: 7px;
+}
+
 hr.one {
     margin-bottom: 20px;
     margin-top: 25px;
@@ -55,6 +61,7 @@ small {
 .fa-bars {
     margin-top: 20px;
     font-size: 25px;
+    color: rgb(100, 99, 99);
 }
 
 .exBox {
